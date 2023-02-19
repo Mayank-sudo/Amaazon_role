@@ -1,0 +1,26 @@
+
+
+
+
+.spanoo {
+    display: flex;
+    padding: 40px;
+    height: 10px;
+    background-color: #232f3e;
+   
+}
+li {
+    list-style-type: none;
+    padding-bottom: 40px;
+}
+
+a {
+    text-decoration: none;
+    padding: 60px;
+    color: white;
+}
+
+.guuri {
+    margin-left: 10px;
+    color: white;
+}

@@ -1,0 +1,41 @@
+.image {
+    width: 300px;
+    height: 300px;
+   
+}
+
+
+.butos {
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: orange;
+    
+}
+
+Row {
+    border-color: black;
+}
+
+
+.images {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+button {
+    border-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
+
+Row {
+   margin-bottom: 1000px;
+}
+
+

@@ -1,0 +1,113 @@
+Navbar {
+    height: 40px;
+    padding-top: 10px;
+}
+
+img {
+    margin-top: 18px;
+    margin-left: 30px;
+    height: 30px;
+    /* font-size: small; */
+}
+
+input {
+    width: 600px;
+    height: 30px;
+    /* margin-right: 200px; */
+    /* margin-left: 30px; */
+}
+
+#location {
+    /* margin-right: 10px; */
+    margin-left: 10px;
+font-size: medium;
+border: none;
+}
+
+
+.SearchIcon {
+    /* margin-right: 60px; */
+    background-color: rgb(205, 144, 66);
+    height: 50px;
+}
+
+.hello {
+    margin-left: 10px;
+}
+
+
+/* select {
+     margin-left: 40px;
+} */
+
+/* #cars {
+
+    margin-left: 480px;
+} */
+
+
+#cars{
+    height: 30px;
+    width: 50px;
+    margin-left: 70px;
+}
+
+span {
+    color:  #ccc;
+}
+
+.Sin {
+    font-size: 13px;
+    color: #fff;
+    display: flex;
+}
+
+
+.Siin {
+    color: white;
+}
+
+/* .hello {
+    padding-top: 6px;
+} */
+
+
+.flagOne {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+
+}
+
+.returnn {
+    margin-left:30px
+}
+
+.Return {
+    padding-bottom: 10px;
+    padding: 10px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.turn {
+    margin-left: 10px;
+}
+
+/* .Return {
+    color: white;
+   padding: 20px;
+   padding-bottom: 20px;
+} */
+
+.russi {
+    color: #fff;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    /* margin-bottom: 80000px; */
+}
+
+.Cart {
+    margin-left: 20px;
+    font-size: medium;
+}
